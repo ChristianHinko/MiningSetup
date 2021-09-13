@@ -16,4 +16,4 @@ set GPU_USE_SYNC_OBJECTS=1
 ::      pool password - For most pools this can be empty.  For pools using usernames, you may need to provide a password as configured on the pool.
 ::
 :: Example:
-teamredminer.exe -a mtp -o stratum+tcp://us-firo.2miners.com:8181 -u aAArbqdnXfBBa75VEAWGP4rgm8hitTDuXb.PersonalDesktop -p x --eth_config=B200
+teamredminer.exe -a mtp -o stratum+tcp://us-firo.2miners.com:8181 -u aAArbqdnXfBBa75VEAWGP4rgm8hitTDuXb.PersonalDesktop -p x
