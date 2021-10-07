@@ -24,5 +24,5 @@ set GPU_USE_SYNC_OBJECTS=1
 ::
 :: 4. You're good to go!
 
-teamredminer.exe -a ethash -o stratum+tcp://us1.ethermine.org:4444 -u 0xa40bEF4844156fB5619d279Facb11F595Fbe0853.FxBoi -p x
+teamredminer.exe -a ethash -o stratum+tcp://us1.ethermine.org:4444 -u 0xe5Fc436ED645e8B1fD1dc8E4D50156F67D866Ac8.FxBoi -p x
 
