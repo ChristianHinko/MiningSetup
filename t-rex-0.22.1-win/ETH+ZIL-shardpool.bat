@@ -1,2 +1,2 @@
-t-rex.exe -a ethash -o stratum+tcp://us1-zil.shardpool.io:3333 -u 0xe5Fc436ED645e8B1fD1dc8E4D50156F67D866Ac8 -p zil1sqmtypec6k2rmqshwzwjcwc83snp29cyqmhgaq@us1.ethermine.org:4444 -w PersonalDesktop --extra-dag-epoch 0 --intensity 25
+t-rex.exe -a ethash -o stratum+tcp://eu1-zil.shardpool.io:3333 -u 0x1f75eccd8fbddf057495b96669ac15f8e296c2cd -p zil1yn92lnkkfsn0s2hlvfdmz6y2yhpqm98vng38s9@eu1.ethermine.org:4444 -w rig0 --extra-dag-epoch 0
 pause

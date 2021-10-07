@@ -1,2 +1,2 @@
-t-rex.exe -a ethash -o stratum+tcp://us1.ethermine.org:4444 -u 0xe5Fc436ED645e8B1fD1dc8E4D50156F67D866Ac8 -p x -w PersonalDesktop --intensity 25
+t-rex.exe -a ethash -o stratum+tcp://eu1.ethermine.org:4444 -u 0x1f75eccd8fbddf057495b96669ac15f8e296c2cd -p x -w rig0
 pause

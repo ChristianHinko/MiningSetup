@@ -1,2 +1,2 @@
-t-rex.exe -a kawpow -o stratum+tcp://us-rvn.2miners.com:6060 -u RTCKF9nAWVRKWdBhFtRzzWqDy7XcsJx48p.PersonalDesktop -p x --intensity 25
+t-rex.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u RBX1G6nYDMHVtyaZiQWySMZw1Bb2DEDpT8.rig -p x
 pause

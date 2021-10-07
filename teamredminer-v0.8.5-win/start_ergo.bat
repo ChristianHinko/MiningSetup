@@ -24,5 +24,5 @@ set GPU_USE_SYNC_OBJECTS=1
 ::
 :: 4. You're good to go!
 
-teamredminer.exe -a autolykos2 -o stratum+tcp://us.ergo.herominers.com:10250 -u 9fc314ndVamV3dcBQ38nBN2WzcgeTeyeC9MzQfu7WmFHf4V3XK7.FxBoi -p x
+teamredminer.exe -a autolykos2 -o stratum+tcp://pool.eu.woolypooly.com:3100 -u 9fTUDDSjg5wRmkEEGNKEw5hrx1ZZNjAcjMFzWfusryk7kvLjww5.trmtest -p x
 
