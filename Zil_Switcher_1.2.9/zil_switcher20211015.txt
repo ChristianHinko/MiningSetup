@@ -1,2 +1,4 @@
 2021-10-15 20:26:55.273 -03:00 [INF] ----------------------------------------------------------------------------------------------
 2021-10-15 20:26:55.621 -03:00 [ERR] Can't find Zilminer.exe or PhoenixMiner.exe or EthDcrMiner64.exe or TeamRedMiner.exe in folder
+2021-10-15 20:49:06.594 -03:00 [INF] ----------------------------------------------------------------------------------------------
+2021-10-15 20:49:07.080 -03:00 [ERR] Can't find Zilminer.exe or PhoenixMiner.exe or EthDcrMiner64.exe or TeamRedMiner.exe in folder
