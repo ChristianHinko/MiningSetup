@@ -14,7 +14,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "pool.minexmr.com:4444", "wallet_address" : "43MEMXDBtLyZJCem2yy3cJ4RRLPcDQQ8U7FoVqjF29YgeoLqJSDrNCB5MooZzFjAaJJJbJv7UyxBCcLGwyHZR1ti7UsFrCr", "rig_id" : "PersonalDesktop", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "pool.minexmr.com:4444", "wallet_address" : "484Sw6Cte3w6ZM6m5M2r7sVLF3Vec8mqdaw41TPJYemZ5vPrQqBJViQLNuqxVMngv4XMUyRCL5GCta6bQ2AvYURSHMDRJVK", "rig_id" : "PersonalDesktop", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
