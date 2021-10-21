@@ -1,2 +1,2 @@
 WinAMDTweak.exe --CL 19 --RAS 32 --RCDRD 15 --RCDWR 8 --RC 46 --RP 13 --RRDS 4 --RRDL 5 --RTP 5 --FAW 16 --CWL 7 --WTRS 4 --WTRL 9 --WR 16 --WRRD 1 --RDWR 19 --REF 17000 --RFC 248
-::pause
+#pause
