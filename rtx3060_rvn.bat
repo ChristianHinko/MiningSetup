@@ -1,2 +1,2 @@
-"t-rex-0.24.2-win/t-rex.exe" --algo kawpow --url stratum+tcp://us-rvn.2miners.com:6060 --user RTCKF9nAWVRKWdBhFtRzzWqDy7XcsJx48p.PersonalDesktop --pass x --intensity 25 --devices 0
+"t-rex-0.24.2-win/t-rex.exe" --algo kawpow --url stratum+tcp://us-rvn.2miners.com:6060 --user RTCKF9nAWVRKWdBhFtRzzWqDy7XcsJx48p.PersonalDesktop0 --pass x --intensity 25 --devices 0
 #pause
