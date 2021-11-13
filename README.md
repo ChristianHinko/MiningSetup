@@ -3,7 +3,7 @@ Make bat files for specific devices to mine with.
 Then call them using a vbs file that runs them hidden.
 Make shortcuts of these vbs files and put them in your `C:/ProgramData/Microsoft/Windows/Start Menu/Programs/StartUp` to have them run on startup. NOTE: you can also use `C:/Users/Christian Hinkle/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup` if you don't have administrative priviliges or if for some reason you want a per-user configuration.
 
-The setup I have gone with is having a vbs startup script per device for full customization. Also making different bat files for different currencies so you can easily change what you're mining.
+The setup I have gone with is having a vbs startup script per worker for full customization. Also making different bat files for different currencies so you can easily change what you're mining.
 Example:
 `rtx3060.vbs`
 `rtx3060_rvn.bat`
