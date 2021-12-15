@@ -11,7 +11,7 @@ Example:\
 `rtx3060_eth.bat`\
 So you can easily change what currency `rtx3060.vbs` does by changing which bat file it calls.
 
-Also the mining software binaries are not included in this repository - download these separately and put them in the root folder along side the bat files.\
+Also the mining software binaries are not included in this repository - download these separately and put them in the root folder along side the bat files.
 
 \
 Tip: Enable auto-signin for windows in regedit so you're startup scripts always run in case your computer restarts
