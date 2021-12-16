@@ -19,3 +19,7 @@ Tip: Enable auto-signin for windows in regedit so you're startup scripts always 
 - Make/edit String value `DefaultUserName` with the value as the name of your user
 - Make/edit String value `DefaultPassword` with the value as the password of your user
 - Make/edit String value `AutoAdminLogon` with the value `1`
+
+Tip: Disable the "run as administrator" pop-ups
+- Open the "User Account Control Settings"
+- Move the slider all the way down to "Never notify" and click OK and verify (this is bad for security on personal desktops but only do this for mining rigs - haven't found a better solution yet)

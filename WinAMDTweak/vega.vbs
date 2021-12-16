@@ -1,3 +1,3 @@
-Set WshShell = CreateObject("WScript.Shell") 
-WshShell.Run chr(34) & "VegaLucky.bat" & Chr(34), 0
-Set WshShell = Nothing
+Set Shell = CreateObject("Shell.Application") 
+Shell.ShellExecute "VegaLucky.bat", "", "", "runas", 0
+Set Shell = Nothing
