@@ -20,6 +20,11 @@ Tip: Enable auto-signin for windows in regedit so you're startup scripts always 
 - Make/edit String value `DefaultPassword` with the value as the password of your user
 - Make/edit String value `AutoAdminLogon` with the value `1`
 
-Tip: Disable the "run as administrator" pop-ups
+Tip: Disable the "run as administrator" pop-ups (NOTE: this is a bad idea for security on personal desktops but only do this for mining rigs - haven't found a better solution yet)
 - Open the "User Account Control Settings"
-- Move the slider all the way down to "Never notify" and click OK and verify (this is bad for security on personal desktops but only do this for mining rigs - haven't found a better solution yet)
+- Move the slider all the way down to "Never notify" and click OK and verify
+- OR: in regedit `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System` make/edit DWORD value `EnableLUA` with the value `0` and restart computer
+
+Tip: Disable "Let's finish setting up your device" using regedit (because it halts auto-start)
+- `Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\UserProfileEngagement`
+- Make/edit DWORD value `ScoobeSystemSettingEnabled` with the value `0`
